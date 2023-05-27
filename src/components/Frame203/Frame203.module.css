@@ -1,0 +1,462 @@
+.root {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 48px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.iMAGE {
+  width: 1440px;
+  height: 880px;
+  background-image:/* webpackIgnore: true */ url('/assets/iMAGE.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame206 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 12px;
+}
+.frame205 {
+  width: 1440px;
+  height: min-content;
+  place-content: space-between;
+  align-items: center;
+  padding: 0 80px;
+}
+.googleXNBA {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame204 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 24px;
+  overflow: hidden;
+}
+.uX {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.visual {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.motion {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.designSystem {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.websiteDesign {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.vector2 {
+  width: 25.65px;
+  height: 25.65px;
+  background-image:/* webpackIgnore: true */ url('/assets/vector.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle {
+  height: 3px;
+  align-self: stretch;
+  background-color: #000;
+}
+.frame207 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 12px;
+}
+.frame2052 {
+  width: 1440px;
+  height: min-content;
+  place-content: space-between;
+  align-items: center;
+  padding: 0 80px;
+}
+.googleXNBA2 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame2042 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 24px;
+  overflow: hidden;
+}
+.uX2 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.visual2 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.motion2 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.designSystem2 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.websiteDesign2 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector3 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.vector4 {
+  width: 25.65px;
+  height: 25.65px;
+  background-image:/* webpackIgnore: true */ url('/assets/vector2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle2 {
+  height: 3px;
+  align-self: stretch;
+  background-color: #000;
+}
+.frame208 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 12px;
+}
+.frame2053 {
+  width: 1440px;
+  height: min-content;
+  place-content: space-between;
+  align-items: center;
+  padding: 0 80px;
+}
+.googleXNBA3 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame2043 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 24px;
+  overflow: hidden;
+}
+.uX3 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.visual3 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.motion3 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.designSystem3 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.websiteDesign3 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector5 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.vector6 {
+  width: 25.65px;
+  height: 25.65px;
+  background-image:/* webpackIgnore: true */ url('/assets/vector3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle3 {
+  height: 3px;
+  align-self: stretch;
+  background-color: #000;
+}
+.frame209 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 12px;
+}
+.frame2054 {
+  width: 1440px;
+  height: min-content;
+  place-content: space-between;
+  align-items: center;
+  padding: 0 80px;
+}
+.googleXNBA4 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame2044 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 24px;
+  overflow: hidden;
+}
+.uX4 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.visual4 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.motion4 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.designSystem4 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.websiteDesign4 {
+  color: #000;
+  font-size: 19px;
+  line-height: 26.88px;
+  font-family: Rock Salt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector7 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.vector8 {
+  width: 25.65px;
+  height: 25.65px;
+  background-image:/* webpackIgnore: true */ url('/assets/vector4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle4 {
+  height: 3px;
+  align-self: stretch;
+  background-color: #000;
+}
